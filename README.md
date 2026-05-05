@@ -4,10 +4,10 @@ QUESTION 1	INVENTORY IMPACT
 		Quantity Sold by Years		
 	Sales Rep	   2010	     2011	      2012	
 	Abdul	        56 	     105 	      116 						
-	Ayo	          76 	      28 	      36 			
-	Ada	          72 	      -         72 					
-	Ese           90 	      95 	      52 				
-	Tola	        132 	    152 	    92 
+	Ayo	            76 	      28 	      36 			
+	Ada	            72 	      -           72 					
+	Ese             90 	      95 	      52 				
+	Tola	        132 	  152 	      92 
 								
 1	TOTAL QUANTITY SOLD	 1,174 				
 2	TOTAL QUANTITY SOLD BY YEAR						
@@ -21,15 +21,15 @@ QUESTION 1	INVENTORY IMPACT
   
 QUESTION 2  
   PERFORMANCE EXTREMES		
-1	HIGHEST TRANSACTION AMOUNT	     20900
+1	HIGHEST TRANSACTION AMOUNT	        20900
 2	LOWEST TRANSACTION AMOUNT	        5280
 
-          Quantity	          Amount
+        Quantity	         Amount
 SUM	       1224	             269280
 MINIMUM   	24	             5280
 MAXIMUM	    95	             20900
 AVERAGE	    51	             11220
-COUNT	      24	              24
+COUNT	    24	              24
 COUNTA	    24	              24
 
 
@@ -37,30 +37,43 @@ COUNTA	    24	              24
 QUESTION 3
 	REPRESENTATIVES	    NUMBER OF ACTIVITIES
 	Abdul	                      6
-	Ayo	                        3
-	Ada	                        5
-	Ese	                        3
+	Ayo	                          3
+	Ada	                          5
+	Ese	                          3
 	Tola	                      7
 
   MOST ACTIVE SALE REPRESENTATIVE  TOLA
 							
 				
 QUESTION 4	FINANCIAL CONTRIBUTION 									
-		REPRESENTATIVE	Amount							
+		REPRESENTATIVE	  Amount							
 		Abdul	          60940							
-		Ayo	            30800							
-		Ada	            42680							
-		Ese	            52140							
+		Ayo	              30800							
+		Ada	              42680							
+		Ese	              52140							
 		Tola	          82720							
 										
 HIGHEST CONTRIBUTOR	    TOLA [82,720]							
 										
 QUESTION 5	       YEARLY TREND									
-		          2010	                  2011	          2012					
-              56	                     105	           116						
-		          76	                      28              36						
-		          72	                      0	              72						
-		          90	                      95	            52						
-		          132	                      152	            92					
+		          2010	           2011	          2012					
+                  56	           105	           116						
+		          76	            28              36						
+		          72	            0	            72						
+		          90	            95	            52						
+		          132	            152	            92					
     
-  TOTAL       426	                      380             368						
+  TOTAL           426	           380             368						
+
+EXECUTIVE SUMMARY
+Sales performance shows a slight fluctuation over the three years. There was a decline in 2011 compared to 2010, followed by a recovery in 2012. 
+Overall, the business remains relatively stable with moderate growth, indicating steady performance rather than consistent increase or decrease.
+
+
+
+
+
+
+
+
+

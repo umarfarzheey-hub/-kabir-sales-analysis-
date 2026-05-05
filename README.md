@@ -69,6 +69,11 @@ EXECUTIVE SUMMARY
 Sales performance shows a slight fluctuation over the three years. There was a decline in 2011 compared to 2010, followed by a recovery in 2012. 
 Overall, the business remains relatively stable with moderate growth, indicating steady performance rather than consistent increase or decrease.
 
+BUSINESS RECOMMENDATION
+
+1. There is no sale representative with highest transaction count but not the highest revenue. Tola has both the highest number of transaction and the highest revenue.
+2. this suggests that tola is both highly avtive and highly effective, generating strong revenue alongside frequent sales. This indicate a combination of high sales transaction and volume.
+3. Based on the yearly performance the company should hire more staffs rather than reducing the staffs. Reason: Sales recovered in 2012 which means the business is still active demand is not declining consistently. Reducing staffs may slow the progress and revenue of the company.
 
 
 
